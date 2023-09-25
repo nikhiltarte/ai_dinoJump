@@ -23,7 +23,7 @@ dino_y_velocity = 0
 obstacle_width, obstacle_height = 20, 40
 obstacle_x = screen_width
 obstacle_y = screen_height - obstacle_height
-obstacle_speed = 5
+obstacle_speed = 2
 
 # Gravity
 gravity = 0.5
